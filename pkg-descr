@@ -1,0 +1,9 @@
+Mojolicious::Plugin::Bootstrap3 is used to include http://getbootstrap.com/
+CSS and JavaScript files into your project.
+
+This is done with the help of Mojolicious::Plugin::AssetPack and Sass.
+
+See "DESCRIPTION" in Mojolicious::Plugin::AssetPack::Preprocessor::Sass on how
+to intall Sass.
+
+WWW:https://metacpan.org/pod/Mojolicious::Plugin::Bootstrap3
